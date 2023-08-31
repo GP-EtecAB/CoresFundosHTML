@@ -1,0 +1,24 @@
+body {
+    background-color: #1a1b22;
+    color: white;
+}
+
+main#container {
+    background-color: #2d3146;
+    box-shadow: 10px 10px 0 0 #4c4f5c;
+}
+
+h1.titulo {
+    font-family: 'Comic Sans MS', sans-serif;
+    color: #e9792f;
+    text-shadow: 4px 4px #693816;
+}
+
+p.frase {
+    font-family: Times;
+}
+
+p.autor {
+    color: #f1af75;
+    font-family: 'Times New Roman', Times, serif;
+}
